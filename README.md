@@ -1,16 +1,20 @@
 ### Hi there 👋
+I am Leo Spratt. I love programming and photography. I'm currently studying for a Computer Science degree. I also have a website that has programming tutorials and more tech stuff: <https://enchantedcode.co.uk>.
 
-<!--
-**enchant97/enchant97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 How to reach me
+| Service | Link |
+|:--------|:-----|
+| Discord Server | <https://discord.gg/qNuvQzd> |
+| Matrix Space | <https://matrix.to/#/#enchanted-people:matrix.org> |
+| More | <https://enchantedcode.co.uk/about#contact-me> |
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- [Web Portal](https://github.com/enchant97/web-portal), Python
+- [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
+- Designing a backup protocol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun fact
+Python and Rust is my fav language
+
+### 🌱 I’m currently learning
+- Protocol Design.
