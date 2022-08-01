@@ -9,6 +9,7 @@ I am Leo Spratt. I love programming and photography. I'm currently studying for 
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
 ### 🔭 I’m currently working on
+- [Hasty Paste](https://github.com/enchant97/hasty-paste), Python
 - [Web Portal](https://github.com/enchant97/web-portal), Python
 - [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
 - Designing a backup protocol
