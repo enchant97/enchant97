@@ -12,7 +12,7 @@ I am Leo Spratt. I love programming and photography. I'm currently studying for 
 - [Hasty Paste](https://github.com/enchant97/hasty-paste), Python
 - [Web Portal](https://github.com/enchant97/web-portal), Python
 - [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
-- Designing a backup protocol
+- Designing a file exchange protocol
 
 ### ⚡ Fun fact
 Python and Rust is my fav language
