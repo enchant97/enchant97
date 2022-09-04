@@ -4,7 +4,7 @@ I am Leo Spratt. I love programming and photography. I'm currently studying for 
 ### 📫 How to reach me
 | Service | Link |
 |:--------|:-----|
-| Discord Server | <https://discord.gg/qNuvQzd> |
+| Discord Server | <https://discord.gg/avVQxbWAHg> |
 | Matrix Space | <https://matrix.to/#/#enchanted-people:matrix.org> |
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
