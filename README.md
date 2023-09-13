@@ -1,5 +1,9 @@
 ### Hi there 👋
-I am Leo Spratt. I love programming and photography. I'm currently studying for a Computer Science degree. I also have a website that has programming tutorials and more tech stuff: <https://enchantedcode.co.uk>.
+I am Leo Spratt.
+
+- I love programming and photography
+- I'm currently taking the "PGCE Secondary - Computing" Course
+- I run a website relating to tech and programming: <https://enchantedcode.co.uk>
 
 ### 📫 How to reach me
 | Service | Link |
@@ -10,7 +14,7 @@ I am Leo Spratt. I love programming and photography. I'm currently studying for 
 
 ### 🔭 I’m currently working on
 - [My Cooking Codex](https://github.com/my-cooking-codex/), Rust(WASM) & Go
-- [Note Mark](https://github.com/enchant97/note-mark), TypeScript & Go
+- [Note Mark](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
 
 ### Some Projects
 - [Hasty Paste](https://github.com/enchant97/hasty-paste), Python
@@ -18,8 +22,8 @@ I am Leo Spratt. I love programming and photography. I'm currently studying for 
 - [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
 
 ### ⚡ Fun fact
-Python and Rust are my fav languages
+Python and Rust are my favorite languages
 
 ### 🌱 I’m currently learning
-- Clusters (Mostly Docker Swarm)
-- Micro Services
+- WASM
+- Ansible
