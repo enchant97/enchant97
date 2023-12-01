@@ -2,7 +2,6 @@
 I am Leo Spratt.
 
 - I love programming and photography
-- I'm currently taking the "PGCE Secondary - Computing" Course
 - I run a website relating to tech and programming: <https://enchantedcode.co.uk>
 
 ### 📫 How to reach me
