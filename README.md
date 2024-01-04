@@ -7,7 +7,7 @@ I am Leo Spratt.
 ### 📫 How to reach me
 | Service | Link |
 |:--------|:-----|
-| Discord Server | <https://discord.gg/avVQxbWAHg> |
+| Discord Server | <https://discord.gg/nryzEvGDQV> |
 | Matrix Space | <https://matrix.to/#/#enchanted-people:matrix.org> |
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
