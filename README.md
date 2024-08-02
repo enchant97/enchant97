@@ -4,7 +4,7 @@
 ### Hi there 👋
 I am Leo Spratt.
 
-- I love programming and photography
+- I love programming, photography and music
 - I run a website relating to tech and programming: <https://enchantedcode.co.uk>
 - Tech videos: [@enchantedcode](https://www.youtube.com/@enchantedcode)
 
@@ -22,7 +22,7 @@ I am Leo Spratt.
 
 ### 🔭 I’m currently working on
 - [Note Mark](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
-- [MarkstX](https://github.com/enchant97/markstx), Rust
+- Music Production
 
 ### Notable Projects
 - [My Cooking Codex](https://github.com/my-cooking-codex/), Rust(WASM) & Go
