@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> Currently all projects are on pause due to a fractured elbow. Will return once possible! (2024-07-12)
-
 ### Hi there 👋
 I am Leo Spratt.
 
