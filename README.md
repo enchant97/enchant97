@@ -19,11 +19,11 @@ I am Leo Spratt.
 
 ### 🔭 I’m currently working on
 - [Note Mark](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
+- [Hasty Paste](https://github.com/enchant97/hasty-paste), Go
 - Music Production
 
 ### Notable Projects
 - [My Cooking Codex](https://github.com/my-cooking-codex/), Rust(WASM) & Go
-- (EOL) [Hasty Paste](https://github.com/enchant97/hasty-paste), Python
 - [Web Portal](https://github.com/enchant97/web-portal), Python
 - [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
 
