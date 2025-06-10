@@ -4,6 +4,7 @@ I am Leo Spratt.
 - I love programming, photography and music
 - I run a website relating to tech and programming: <https://enchantedcode.co.uk>
 - Tech videos: [@enchantedcode](https://www.youtube.com/@enchantedcode)
+- My Music: [Spectral Nova](https://spectralnova.com/)
 
 ### Support Me
 
