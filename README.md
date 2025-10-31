@@ -15,7 +15,6 @@ I am Leo Spratt.
 |:--------|:-----|
 | Email | contact(at)enchantedcode.co.uk |
 | Discord Server | <https://discord.gg/nryzEvGDQV> |
-| Matrix Space | <https://matrix.to/#/#enchanted-people:matrix.org> |
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
 ### 🔭 I’m currently working on
