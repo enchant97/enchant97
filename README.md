@@ -3,7 +3,7 @@ I am Leo Spratt.
 
 - I love programming, photography and music
 - I run a website relating to tech and programming: <https://enchantedcode.co.uk>
-- Tech videos: [@enchantedcode](https://www.youtube.com/@enchantedcode)
+- YT Videos: [Leo Plus Tech](https://www.youtube.com/@enchantedcode)
 - My Music: [Spectral Nova](https://spectralnova.com/)
 
 ### Support Me
@@ -18,18 +18,16 @@ I am Leo Spratt.
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
 ### 🔭 I’m currently working on
-- [Note Mark](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
-- [Hasty Paste](https://github.com/enchant97/hasty-paste), Go
+- [Note Mark V1](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
 - Music Production
+- Kernel + OS for RP2350 microcontroller in Rust
 
 ### Notable Projects
-- [My Cooking Codex](https://github.com/my-cooking-codex/), Rust(WASM) & Go
+- [Hasty Paste](https://github.com/enchant97/hasty-paste), Go
 - [Web Portal](https://github.com/enchant97/web-portal), Python
-- [Web Portal Lite](https://github.com/enchant97/web-portal-lite), Rust
 
 ### ⚡ Fun fact
 Python and Rust are my favorite languages
 
 ### 🌱 I’m currently learning
-- WASM
-- Ansible
+- Kernel + OS
