@@ -18,11 +18,11 @@ I am Leo Spratt.
 | More | <https://enchantedcode.co.uk/about#contact-me> |
 
 ### 🔭 I’m currently working on
-- [Note Mark V1](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
+- [Leonis Computer](https://github.com/LeonisComputer), a OS + Kernel built in Rust using the RP2035
 - Music Production
-- Kernel + OS for RP2350 microcontroller in Rust
 
 ### Notable Projects
+- [Note Mark V1](https://github.com/enchant97/note-mark), TypeScript, Go & Rust (WASM)
 - [Hasty Paste](https://github.com/enchant97/hasty-paste), Go
 - [Web Portal](https://github.com/enchant97/web-portal), Python
 
